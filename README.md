@@ -12,7 +12,7 @@ Se utiliza **R** para la prueba estadística y visualización de resultados.
 ## 🚀 Cómo ejecutar el análisis  
 1. Clonar este repositorio:
    ```sh
-   git clone https://github.com/Nico9874/ecommerce-hypothesis-testing.git
+   https://github.com/Nico9874/ecommerce-hypothesis-testing.git
 
 ## 📊 Resultados clave  
 
