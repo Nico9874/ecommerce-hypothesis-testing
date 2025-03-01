@@ -1,20 +1,20 @@
-# 📊 Ecommerce Hypothesis Testing en R
+# Ecommerce Hypothesis Testing en R
 
-## 📌 Descripción  
+## Descripción  
 Este proyecto realiza un **test de hipótesis estadístico** para analizar si las ventas con recomendación de productos (**Group_1**) son mayores que las ventas sin recomendación (**Group_0**) en un eCommerce B2B.  
 Se utiliza **R** para la prueba estadística y visualización de resultados.
 
-## 🛠 Tecnologías utilizadas  
+## Tecnologías utilizadas  
 - **R** (ggplot2, gridExtra)  
 - **Prueba t de Student** para evaluar diferencias de medias  
 - **Dataset de ventas B2B**  
 
-## 🚀 Cómo ejecutar el análisis  
+## Cómo ejecutar el análisis  
 1. Clonar este repositorio:
    ```sh
    https://github.com/Nico9874/ecommerce-hypothesis-testing.git
 
-## 📊 Resultados clave  
+## Resultados clave  
 
 ### **Hipótesis evaluada:**  
 - **H₀ (Hipótesis nula):** La media de ventas en **Group_1** (con recomendación) es menor o igual a la de **Group_0** (sin recomendación).  
